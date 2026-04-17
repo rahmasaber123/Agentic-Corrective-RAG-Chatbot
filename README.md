@@ -1,11 +1,13 @@
-# 🚀 Rasheqa AI — Production-Ready Diet Recommendation System
+# 🚀 Rasheqa AI —  Diet Recommendation System
 
 Rasheqa AI is an advanced **LangGraph-powered Retrieval-Augmented Generation (RAG)** system designed to deliver **personalized, context-aware diet recommendations**.
 
 Unlike generic chatbots, this system operates as a **domain-restricted intelligent agent**, focused exclusively on **nutrition, diet programs, and fitness**, with strong guardrails and decision-based architecture.
 
 ---
+## 🧠 RAG Architecture
 
+![RAG Architecture]()
 ## 🧠 Overview
 
 This project combines:
