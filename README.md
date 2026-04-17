@@ -7,7 +7,7 @@ Unlike generic chatbots, this system operates as a **domain-restricted intellige
 ---
 ## 🧠 RAG Architecture
 
-![RAG Architecture]()
+![RAG Architecture](https://github.com/rahmasaber123/Agentic-Corrective-RAG-Chatbot/blob/main/corrective_rag_architecture.png?raw=true)
 ## 🧠 Overview
 
 This project combines:
